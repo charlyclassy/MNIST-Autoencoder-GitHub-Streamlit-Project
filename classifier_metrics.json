@@ -1,0 +1,7 @@
+{
+    "test_accuracy": 0.9907000064849854,
+    "test_loss": 0.026982663199305534,
+    "accuracy": 0.9907000064849854,
+    "epochs": 5,
+    "model": "MNIST CNN Classifier"
+}
