@@ -1,3 +1,31 @@
+
+
+# 🔢 MNIST AI Studio
+### Autoencoder Reconstruction & CNN Digit Classification
+
+## 🚀 Live Streamlit Application
+
+[Click Here to Launch MNIST AI Studio](https://mnist-autoencoder-app-app-project-8pxqgmhsqqlz449mdcgnuv.streamlit.app/))
+
+## Features
+
+- Reconstruct handwritten digits using an autoencoder.
+- Classify handwritten digits 0–9 using a CNN.
+- Upload handwritten digit images.
+- Display classification confidence scores.
+- Compare original and reconstructed images.
+- Visualise training results and confusion matrix.
+
+## Technologies
+
+- Python
+- TensorFlow / Keras
+- Streamlit
+- NumPy
+- Matplotlib
+- MNIST Dataset
+
+
 # 🔢 MNIST AI Studio — Autoencoder + CNN Classification
 
 A two-model TensorFlow/Keras project that **reconstructs** MNIST handwritten digits with an autoencoder and **classifies** them with a separately trained CNN. The Streamlit interface uses a dark navy and purple theme.
