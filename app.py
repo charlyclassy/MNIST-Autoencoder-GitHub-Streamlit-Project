@@ -231,4 +231,4 @@ else:
     test images, and preprocessing can affect both models.''')
 
 st.divider()
-st.caption('MNIST AI Studio · Educational deep learning demo · No model accuracy is assumed until evaluated.')
+
